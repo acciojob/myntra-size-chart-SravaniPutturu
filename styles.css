@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+table{
+	
+	border-collapse:collapse;
+	width:100%;
+}
+th,td{
+	text-align:left;
+	padding:6px;
+}
+#row1{
+	background-color:maroon;
+}
+#row2{
+	background-color:brown;
+}
+#row3{
+	background-color:pink;
+}
+#row4{
+	background-color:silver;
+}
